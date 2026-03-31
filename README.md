@@ -138,14 +138,6 @@ const branavan = {
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Branavan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Branavan2004&theme=redical&hide_border=true&area=true&color=E8272F&line=E8272F&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 
 ## 💬 Dev Quote of the Day
@@ -175,7 +167,7 @@ const branavan = {
 - ⚡ **Industry Relations Lead** — IEEE Student Branch, IIT
 - 🌐 **Programme Vice Chair** — Let's Talk Pulse, IEEE Sri Lanka Section
 - 🎓 **Batch Representative** — Informatics Institute of Technology
-- 📐 **Volunteer Maths Teacher** — St. Mary's College
+
 
 ---
 
