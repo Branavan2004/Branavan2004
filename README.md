@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=E8272F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Branavan+%F0%9F%8F%8E%EF%B8%8F;Full-Stack+Developer+(Seeking+Internship);CS+Undergrad+%40+IIT;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=E8272F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Branavan+%F0%9F%8F%8E%EF%B8%8F;CS+Undergrad+%40+IIT;Building+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
@@ -138,6 +138,8 @@ const branavan = {
 
 ---
 
+
+
 ---
 
 ## 💬 Dev Quote of the Day
@@ -167,7 +169,6 @@ const branavan = {
 - ⚡ **Industry Relations Lead** — IEEE Student Branch, IIT
 - 🌐 **Programme Vice Chair** — Let's Talk Pulse, IEEE Sri Lanka Section
 - 🎓 **Batch Representative** — Informatics Institute of Technology
-
 
 ---
 
