@@ -29,13 +29,6 @@ const branavan = {
 
 ---
 
-## 🎯 Currently Building
-
-| Project | Stack | Status |
-|---|---|---|
-| 🏎️ **Apex Race Control** | React 18, TypeScript, Node.js, Framer Motion | 🔨 Active |
-| ⚡ **FanVolt Watch Parties** | Next.js, NestJS, PostgreSQL, Supabase | 🔨 Active |
-| 📋 **Smart Internship Tracker** | React, Express, MongoDB, Recharts | ✅ Shipped |
 
 ---
 
@@ -80,44 +73,6 @@ const branavan = {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏎️ [Apex Race Control](https://github.com/Branavan2004/apex-race-control)
-> F1-inspired full-stack analytics dashboard with real-time telemetry UI
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-- 🔧 50+ reusable components · 15+ HUD elements · 5+ REST API endpoints
-- ⚡ In-memory caching · Animated transitions · Modular scalable architecture
-
----
-
-### ⚡ [FanVolt — Sports Fan Engagement Platform](https://github.com/Branavan2004/fanvolt)
-> Watch Parties module for a real-world sports platform — built with a full team
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-- 🔐 JWT-authenticated REST APIs · PostgreSQL + Supabase backend
-- 🧪 Jest unit testing · Agile/Scrum team collaboration
-
----
-
-### 📋 [Smart Internship & Career Tracker](https://github.com/Branavan2004/smart-internship-tracker)
-> Full-stack dashboard for students to manage applications, interviews & analytics
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-- 📊 Recharts analytics dashboard · JWT auth · Multer file uploads
-- 📧 Nodemailer reminder digest · Deployed on Vercel + Render
 
 ---
 
@@ -164,11 +119,6 @@ const branavan = {
 
 ---
 
-## 🎖️ Leadership & Roles
-
-- ⚡ **Industry Relations Lead** — IEEE Student Branch, IIT
-- 🌐 **Programme Vice Chair** — Let's Talk Pulse, IEEE Sri Lanka Section
-- 🎓 **Batch Representative** — Informatics Institute of Technology
 
 ---
 
