@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=E8272F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Branavan+%F0%9F%8F%8E%EF%B8%8F;Full-Stack+Developer;CS+Undergrad+%40+IIT;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=E8272F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Branavan+%F0%9F%8F%8E%EF%B8%8F;Full-Stack+Developer+(Seeking+Internship);CS+Undergrad+%40+IIT;Building+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ```typescript
 const branavan = {
-  role:        "Full-Stack Developer & CS Undergraduate",
+  role:        "CS Undergrad · Building Real Things",
   university:  "IIT × University of Westminster 🎓",
   location:    "Colombo, Sri Lanka 🇱🇰",
   building:    ["FanVolt", "Apex Race Control", "Smart Internship Tracker"],
@@ -138,7 +138,13 @@ const branavan = {
 
 ---
 
+## 📈 Contribution Activity
 
+<div align="center">
+
+[![Branavan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Branavan2004&theme=redical&hide_border=true&area=true&color=E8272F&line=E8272F&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
@@ -169,7 +175,7 @@ const branavan = {
 - ⚡ **Industry Relations Lead** — IEEE Student Branch, IIT
 - 🌐 **Programme Vice Chair** — Let's Talk Pulse, IEEE Sri Lanka Section
 - 🎓 **Batch Representative** — Informatics Institute of Technology
-
+- 📐 **Volunteer Maths Teacher** — St. Mary's College
 
 ---
 
