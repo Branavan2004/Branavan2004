@@ -29,6 +29,15 @@ const branavan = {
 
 ---
 
+## 🎧 Pit Lane Sounds
+
+<div align="center">
+
+[![Spotify](https://YOUR-PROJECT.vercel.app/api)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+</div>
+
+> **Setup:** Fork [Walkator/spotify-readme](https://github.com/Walkator/spotify-readme), deploy to Vercel with your `CLIENT_ID`, `CLIENT_SECRET`, `REFRESH_TOKEN` env vars, then replace the URL above.
 
 ---
 
@@ -73,6 +82,13 @@ const branavan = {
 
 ---
 
+## 🏎️ F1 Sector Skill Telemetry
+
+<div align="center">
+
+![F1 Skills](./f1-skills.svg)
+
+</div>
 
 ---
 
@@ -87,13 +103,44 @@ const branavan = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Branavan2004&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Branavan2004&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+## 🌐 3D Contribution Graph
 
+<div align="center">
+
+![3D Contrib](./profile-3d-contrib/profile-gitblock.svg)
+
+</div>
+
+> **Setup:** Create `.github/workflows/3d-contrib.yml` with the YAML below and run it once manually from the Actions tab.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Light](https://raw.githubusercontent.com/Branavan2004/Branavan2004/output/github-snake.svg#gh-light-mode-only)
+![Snake Dark](https://raw.githubusercontent.com/Branavan2004/Branavan2004/output/github-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+> **Setup:** Create `.github/workflows/snake.yml` with the YAML below and run it once manually.
+
+---
+
+## ⏱️ This Week I Coded In
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will auto-populate here after setup -->
+<!--END_SECTION:waka-->
+
+> **Setup:** Install WakaTime in VS Code, add `WAKATIME_API_KEY` secret to your repo, create `.github/workflows/waka.yml` with the YAML below.
 
 ---
 
@@ -116,9 +163,6 @@ const branavan = {
 | 🐳 Docker Foundations | Docker |
 | 🐙 Career Essentials in GitHub | GitHub |
 | ☕ Java Foundations | JetBrains |
-
----
-
 
 ---
 
