@@ -29,18 +29,6 @@ const branavan = {
 
 ---
 
-## 🎧 Pit Lane Sounds
-
-<div align="center">
-
-[![Spotify](https://YOUR-PROJECT.vercel.app/api)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
-
-> **Setup:** Fork [Walkator/spotify-readme](https://github.com/Walkator/spotify-readme), deploy to Vercel with your `CLIENT_ID`, `CLIENT_SECRET`, `REFRESH_TOKEN` env vars, then replace the URL above.
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -117,8 +105,6 @@ const branavan = {
 
 </div>
 
-> **Setup:** Create `.github/workflows/3d-contrib.yml` with the YAML below and run it once manually from the Actions tab.
-
 ---
 
 ## 🐍 Contribution Snake
@@ -129,18 +115,6 @@ const branavan = {
 ![Snake Dark](https://raw.githubusercontent.com/Branavan2004/Branavan2004/output/github-snake-dark.svg#gh-dark-mode-only)
 
 </div>
-
-> **Setup:** Create `.github/workflows/snake.yml` with the YAML below and run it once manually.
-
----
-
-## ⏱️ This Week I Coded In
-
-<!--START_SECTION:waka-->
-<!-- WakaTime stats will auto-populate here after setup -->
-<!--END_SECTION:waka-->
-
-> **Setup:** Install WakaTime in VS Code, add `WAKATIME_API_KEY` secret to your repo, create `.github/workflows/waka.yml` with the YAML below.
 
 ---
 
