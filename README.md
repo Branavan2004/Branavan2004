@@ -93,13 +93,7 @@ const branavan = {
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Branavan2004&theme=radical&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 ---
 
 ## 📈 GitHub Activity Graph
@@ -107,14 +101,9 @@ const branavan = {
 [![Branavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Branavan2004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
----
 
-## ⏱️ Coding Activity
 
-![GitHub metrics](https://metrics.lecoq.io/Branavan2004?template=classic&languages=1&habits=1&achievements=1&isocalendar=1)
 
----
----
 
 ## 💬 Dev Quote of the Day
 
@@ -124,7 +113,13 @@ const branavan = {
 
 </div>
 ---
+---
 
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Branavan2004&color=E8272F&style=for-the-badge)
+
+---
 ## 😂 Dev Meme of the Day
 
 <div align="center">
