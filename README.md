@@ -112,7 +112,6 @@ const branavan = {
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
----
 
 
 ## 👀 Profile Views
