@@ -70,13 +70,6 @@ const branavan = {
 
 ---
 
-## 🏎️ F1 Sector Skill Telemetry
-
-<div align="center">
-
-![F1 Skills](./f1-skills.svg)
-
-</div>
 
 ---
 
@@ -97,24 +90,9 @@ const branavan = {
 
 ---
 
-## 🌐 3D Contribution Graph
-
-<div align="center">
-
-![3D Contrib](./profile-3d-contrib/profile-gitblock.svg)
-
-</div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake Light](https://raw.githubusercontent.com/Branavan2004/Branavan2004/output/github-snake.svg#gh-light-mode-only)
-![Snake Dark](https://raw.githubusercontent.com/Branavan2004/Branavan2004/output/github-snake-dark.svg#gh-dark-mode-only)
-
-</div>
 
 ---
 
