@@ -1,30 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=2800&pause=900&color=E8272F&center=true&vCenter=true&width=750&lines=BRANAVAN+KUGANESAN+%F0%9F%8F%8E%EF%B8%8F;Computer+Science+Undergraduate;Automation+%7C+Software+Development;Turning+Ideas+Into+Reality." alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,35:1a0808,100:8b0000&height=220&section=header&text=BRANAVAN%20KUGANESAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=13&descAlignY=58&animation=fadeIn"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="85%"/>
-
-### `BUILD` · `AUTOMATE` · `INNOVATE`
-
-**Computer Science Undergraduate @ IIT × University of Westminster**
-
-**Automation and People Operations Intern @ WSO2**
-
-📍 Colombo, Sri Lanka 🇱🇰
-
-<br/>
-
-<a href="https://www.linkedin.com/in/branavan-kuganesan-548244307/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Branavan2004"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:branavan.kg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://medium.com/@branavan.Kg"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.instagram.com/branavan_k/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Automation+%26+People+Operations+Intern;Passionate+About+Technology+%26+Innovation" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Branavan2004&style=for-the-badge&color=E8272F&label=PROFILE+VISITORS"/>
+<a href="https://www.linkedin.com/in/branavan-kuganesan-548244307/"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://github.com/Branavan2004"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="mailto:branavan.kg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://medium.com/@branavan.Kg"><img src="https://img.shields.io/badge/MEDIUM-ffffff?style=for-the-badge&logo=medium&logoColor=black"/></a>
+<a href="https://www.instagram.com/branavan_k/"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Branavan2004&label=PROFILE+VISITORS&color=E8272F&style=flat-square"/>
 
 </div>
 
@@ -32,55 +22,36 @@
 
 <div align="center">
 
-## ◈ ABOUT ME
+## ✦ ABOUT ME
 
-</div>
-
-I'm **Branavan Kuganesan**, a Computer Science undergraduate at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster.
-
-Currently working at **WSO2** as an Automation and People Operations Intern, exploring how technology, software and automation can improve real-world business processes.
-
-I enjoy building software, experimenting with new technologies and understanding how different systems work together — from frontend interfaces and backend architectures to APIs, databases and cloud infrastructure.
-
-I believe in learning by building, solving practical problems and continuously improving the way things work.
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Automation-E8272F?style=flat-square"/>
-<img src="https://img.shields.io/badge/EDUCATION-Computer%20Science-20232A?style=flat-square"/>
-<img src="https://img.shields.io/badge/LOCATION-Sri%20Lanka-0A66C2?style=flat-square"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ PROFESSIONAL EXPERIENCE
+*Technology enthusiast with a passion for building meaningful solutions.*
 
 </div>
 
 <table>
 <tr>
-<td width="75">
+<td width="65%" valign="middle">
 
-<img src="https://cdn.simpleicons.org/wso2/FF7300" width="55"/>
+### Hello, I'm Branavan! 👋
+
+I'm a Computer Science undergraduate at **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**.
+
+Currently, I'm working at **WSO2** as an Automation and People Operations Intern, exploring the intersection of technology, automation and business operations.
+
+I'm interested in software development, enterprise technologies, cloud platforms and creating solutions that make everyday processes more efficient.
+
+I enjoy learning new technologies, exploring innovative ideas and continuously expanding my knowledge.
 
 </td>
-<td>
+<td width="35%" align="center" valign="middle">
 
-### WSO2
+<img src="https://skillicons.dev/icons?i=java,python,ts,react,nodejs,docker&perline=2&theme=dark"/>
 
-**Automation and People Operations Intern**
+<br/><br/>
 
-`May 2026 – Present` · Colombo, Sri Lanka
+🇱🇰 **Colombo, Sri Lanka**
 
-- Working on automation initiatives and internal operational workflows.
-- Contributing to technology-driven solutions in a professional enterprise environment.
-- Applying software development and problem-solving skills to practical business requirements.
-- Gaining exposure to enterprise technologies, processes and production-oriented development.
+🎓 **Computer Science**
 
 </td>
 </tr>
@@ -90,72 +61,136 @@ I believe in learning by building, solving practical problems and continuously i
 
 <div align="center">
 
-## ◈ TECHNOLOGY ARSENAL
+## ✦ PROFESSIONAL EXPERIENCE
 
-*Technologies, tools and platforms I work with and explore.*
-
-</div>
-
-### 01 / Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,sql&theme=dark"/>
-</p>
-
-### 02 / Frontend Engineering
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind&theme=dark"/>
-</p>
-
-### 03 / Backend Engineering
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark"/>
-</p>
-
-### 04 / Databases & Infrastructure
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,docker,aws&theme=dark"/>
-</p>
-
-### 05 / WSO2 Ecosystem
-
-<p align="left">
-<img src="https://img.shields.io/badge/WSO2-FF7300?style=for-the-badge&logo=wso2&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSO2%20API%20Manager-FF7300?style=for-the-badge&logo=wso2&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSO2%20Choreo-FF7300?style=for-the-badge&logo=wso2&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSO2%20Asgardeo-FF7300?style=for-the-badge&logo=wso2&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSO2%20Identity%20Server-FF7300?style=for-the-badge&logo=wso2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ballerina-464EB8?style=for-the-badge&logo=ballerina&logoColor=white"/>
-</p>
-
-### 06 / Development & Testing Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,jest,vscode,idea&theme=dark"/>
-</p>
-
-### 07 / Engineering Concepts
-
-<div align="center">
-
-| SOFTWARE ENGINEERING | DEVELOPMENT |
-|:---:|:---:|
-| Object-Oriented Programming | REST API Development |
-| Database Management | Authentication & Authorization |
-| API Management | Software Testing |
-| Data Structures & Algorithms | CI/CD |
-| Machine Learning Fundamentals | Cloud Application Development |
+<img src="https://img.shields.io/badge/CURRENTLY_AT-WSO2-FF7300?style=for-the-badge&logo=wso2&logoColor=white"/>
 
 </div>
+
+<table>
+<tr>
+<td width="18%" align="center">
+
+<img src="https://cdn.simpleicons.org/wso2/FF7300" width="70"/>
+
+</td>
+<td width="82%">
+
+### WSO2
+
+**Automation and People Operations Intern**
+
+`May 2026 – Present` · Colombo, Sri Lanka
+
+- Contributing to internal automation initiatives and operational workflows.
+- Exploring technology-driven solutions for business processes.
+- Applying technical knowledge to practical organisational requirements.
+- Gaining experience in an enterprise technology environment.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## ◈ CERTIFICATIONS
+## ✦ TECHNICAL SKILLS
+
+*Technologies and platforms I work with and explore.*
+
+</div>
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,sql&theme=dark"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind&theme=dark"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark"/>
+</p>
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,docker,aws&theme=dark"/>
+</p>
+
+### WSO2 Ecosystem
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/wso2/FF7300" width="40"/>
+
+**WSO2 API Manager**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/wso2/FF7300" width="40"/>
+
+**WSO2 Choreo**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://cdn.simpleicons.org/wso2/FF7300" width="40"/>
+
+**WSO2 Asgardeo**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/wso2/FF7300" width="40"/>
+
+**WSO2 Identity Server**
+
+</td>
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/ballerina/464EB8" width="40"/>
+
+**Ballerina**
+
+</td>
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/wso2/FF7300" width="40"/>
+
+**WSO2 Platform**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest,vscode,idea&theme=dark"/>
+</p>
+
+---
+
+<div align="center">
+
+## ✦ CERTIFICATIONS
 
 </div>
 
@@ -163,14 +198,14 @@ I believe in learning by building, solving practical problems and continuously i
 <tr>
 <td width="50%">
 
-**🤖 Machine Learning with Python**
+🏅 **Machine Learning with Python**
 
 Anaconda
 
 </td>
 <td width="50%">
 
-**❄️ Data Engineering**
+❄️ **Data Engineering**
 
 Snowflake
 
@@ -179,14 +214,14 @@ Snowflake
 <tr>
 <td>
 
-**🐳 Docker Foundations**
+🐳 **Docker Foundations**
 
 Docker
 
 </td>
 <td>
 
-**🐙 Career Essentials in GitHub**
+🐙 **Career Essentials in GitHub**
 
 GitHub
 
@@ -195,9 +230,7 @@ GitHub
 <tr>
 <td colspan="2" align="center">
 
-**☕ Java Foundations**
-
-JetBrains
+☕ **Java Foundations — JetBrains**
 
 </td>
 </tr>
@@ -207,15 +240,19 @@ JetBrains
 
 <div align="center">
 
-## ◈ GITHUB ANALYTICS
+## ✦ GITHUB STATISTICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Branavan2004&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Branavan2004&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Branavan2004&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Branavan2004&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Branavan2004&theme=radical&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=Branavan2004&theme=radical&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Branavan2004&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
 </div>
 
@@ -223,48 +260,41 @@ JetBrains
 
 <div align="center">
 
-## ◈ CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Branavan2004&theme=react-dark&hide_border=true&area=true&custom_title=Branavan's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ BEYOND THE TERMINAL
+## ✦ BEYOND TECHNOLOGY
 
 <table>
 <tr>
 <td align="center" width="33%">
 
+<img src="https://img.shields.io/badge/FORMULA_1-E8272F?style=for-the-badge&logo=formula1&logoColor=white"/>
+
 ### 🏎️
 
-**FORMULA 1**
+Red Bull Racing
 
-Red Bull Racing  
 Max Verstappen
 
 </td>
 <td align="center" width="33%">
 
+<img src="https://img.shields.io/badge/CRICKET-0A66C2?style=for-the-badge&logo=cricket&logoColor=white"/>
+
 ### 🏏
 
-**CRICKET**
+Sri Lanka Cricket
 
-Sri Lanka Cricket  
 Mumbai Indians
 
 </td>
 <td align="center" width="33%">
 
+<img src="https://img.shields.io/badge/CINEMA-6A5ACD?style=for-the-badge&logo=imdb&logoColor=white"/>
+
 ### 🎬
 
-**CINEMA**
+Psychological Thrillers
 
-Mind-bending thrillers  
-Unexpected plot twists
+Mind-bending Stories
 
 </td>
 </tr>
@@ -276,21 +306,22 @@ Unexpected plot twists
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8272F,100:181717&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,60:1a0808,100:090909&height=140&section=footer"/>
 
-### LET'S CONNECT & BUILD SOMETHING GREAT.
+### THANK YOU FOR VISITING!
 
-**Curiosity drives innovation. Code brings ideas to life.**
+**Let's connect and share ideas.**
 
 <a href="https://www.linkedin.com/in/branavan-kuganesan-548244307/">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:branavan.kg@gmail.com">
 <img src="https://img.shields.io/badge/GET_IN_TOUCH-E8272F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*Driven by curiosity. Powered by coffee. Distracted by F1.*
+*Branavan Kuganesan · Colombo, Sri Lanka 🇱🇰*
 
 </div>
